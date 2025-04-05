@@ -11,3 +11,24 @@ Ele serve como base para explorar os conceitos de desenvolvimento web com Angula
 
 ```bash
 npm install
+## 📚 Tecnologias usadas
+Angular 14
+
+TypeScript
+
+HTML & SCSS
+
+RxJS
+
+Angular CLI
+
+## 📌 Requisitos
+Node.js 14 ou superior
+
+Angular CLI 14+
+
+## 🤝 Contribuindo
+Contribuições são bem-vindas!
+Sinta-se livre para abrir um pull request ou relatar issues.
+
+
