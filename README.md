@@ -4,13 +4,6 @@ Este é um projeto de blog simples desenvolvido com [Angular CLI](https://angula
 Ele serve como base para explorar os conceitos de desenvolvimento web com Angular, incluindo criação de componentes, rotas, serviços e consumo de dados.
 
 ---
-
-## 🚀 Como iniciar o projeto
-
-### 1. Instale as dependências
-
-```bash
-npm install
 ## 📚 Tecnologias usadas
 Angular 14
 
@@ -30,5 +23,13 @@ Angular CLI 14+
 ## 🤝 Contribuindo
 Contribuições são bem-vindas!
 Sinta-se livre para abrir um pull request ou relatar issues.
+
+## 🚀 Como iniciar o projeto
+
+### 1. Instale as dependências
+
+```bash
+npm install
+
 
 
